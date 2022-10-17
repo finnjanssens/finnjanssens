@@ -9,13 +9,13 @@
 
 ## 🧰 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Windows 11-informational?style=flat&logo=Windows 11&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-11-informational?style=flat&logo=Windows 11&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/IDE-VS Code-informational?style=flat&logo=Visual Studio Code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-VS-Code-informational?style=flat&logo=Visual Studio Code&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Favourite Framework-Remix-informational?style=flat&logo=Remix&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Favourite-Framework-Remix-informational?style=flat&logo=Remix&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Favourite Language-Typescript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Favourite-Language-Typescript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
 
 
 ## 📈 Github stats
