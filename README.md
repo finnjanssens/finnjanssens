@@ -18,4 +18,4 @@
 ## 📈 Github stats
 
 <img src="https://github-readme-stats.vercel.app/api/?username=finnjanssens&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnjanssens&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnjanssens&theme=gruvbox&layout=compact" />
